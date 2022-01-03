@@ -1,5 +1,6 @@
 # Tribute Page
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/justinz45/pen/dyVeWPB](https://codepen.io/justinz45/pen/dyVeWPB).
+This is a Tribute Page for Stan Lee, using basic HTML and CSS.
+Click here to view my Tribute Page Project: [https://codepen.io/justinz45/pen/dyVeWPB](https://codepen.io/justinz45/pen/dyVeWPB).
 
 
